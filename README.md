@@ -1,4 +1,5 @@
 Title: javafx-inventory-project
+
 Description: This application allows users to add/modify/delete parts and products. Parts can be manufactured inhouse or outsourced.
 Products contain parts which can be added and associated to the product object in the add/modify products menu. Parts and products are
 able to be searched for convenience. 
